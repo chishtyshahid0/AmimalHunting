@@ -1,0 +1,58 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Facebook.Unity.Settings.FacebookSettings/UrlSchemes" preserve="nothing" serialized="true"/>
+		<type fullname="LevelDetails/WaveInfo" preserve="nothing" serialized="true"/>
+		<type fullname="UIAnimatorCore.ActionMatrixData" preserve="nothing" serialized="true"/>
+		<type fullname="UIAnimatorCore.AnimationInstance" preserve="nothing" serialized="true"/>
+		<type fullname="UIAnimatorCore.AnimationSetup" preserve="nothing" serialized="true"/>
+		<type fullname="UIAnimatorCore.AnimationStage" preserve="nothing" serialized="true"/>
+		<type fullname="UIAnimatorCore.AnimStepVariableFloat" preserve="nothing" serialized="true"/>
+		<type fullname="UIAnimatorCore.AnimStepVariableVector3" preserve="nothing" serialized="true"/>
+		<type fullname="UIAnimatorCore.AudioClipData" preserve="nothing" serialized="true"/>
+		<type fullname="UIAnimatorCore.UIGraphicRendererTargetData" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.Postprocessing.Runtime">
+		<type fullname="UnityEngine.Rendering.PostProcessing.BoolParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.ColorParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.FastApproximateAntialiasing" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.FloatParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.Fog" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.GradingModeParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.HistogramMonitor" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.LightMeterMonitor" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessDebugLayer" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessDebugLayer/OverlaySettings" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/ComputeShaders" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/Shaders" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/SMAALuts" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.Spline" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.SplineParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.SubpixelMorphologicalAntialiasing" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.TemporalAntialiasing" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.TextureParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.TonemapperParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.Vector4Parameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.VectorscopeMonitor" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.PostProcessing.WaveformMonitor" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919382682010",
+    "firebase_url": "https://wild-deer-hunting-game.firebaseio.com",
+    "project_id": "wild-deer-hunting-game",
+    "storage_bucket": "wild-deer-hunting-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919382682010:android:30f4eb3f70ad2bafc7f223",
+        "android_client_info": {
+          "package_name": "com.sgh.wilddeer.hunting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919382682010-ud659er3oi221ke5193dd5v1s1753ge6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpCPVq7RkN2KUvPQjUFBCy3kPUh4CglGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919382682010-ud659er3oi221ke5193dd5v1s1753ge6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
