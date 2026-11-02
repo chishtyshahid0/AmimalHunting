@@ -1,0 +1,544 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_Name: BB_BabyRhino_RM_MX_BRMAvatar
+  m_AvatarSize: 5976
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 5
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 7
+          m_AxesId: -1
+        - m_ParentId: 8
+          m_AxesId: -1
+        - m_ParentId: 9
+          m_AxesId: -1
+        - m_ParentId: 10
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 12
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 14
+          m_AxesId: -1
+        - m_ParentId: 15
+          m_AxesId: -1
+        - m_ParentId: 16
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 18
+          m_AxesId: -1
+        - m_ParentId: 19
+          m_AxesId: -1
+        - m_ParentId: 20
+          m_AxesId: -1
+        - m_ParentId: 21
+          m_AxesId: -1
+        - m_ParentId: 22
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 24
+          m_AxesId: -1
+        - m_ParentId: 25
+          m_AxesId: -1
+        - m_ParentId: 26
+          m_AxesId: -1
+        - m_ParentId: 25
+          m_AxesId: -1
+        - m_ParentId: 28
+          m_AxesId: -1
+        - m_ParentId: 28
+          m_AxesId: -1
+        - m_ParentId: 28
+          m_AxesId: -1
+        - m_ParentId: 28
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 33
+          m_AxesId: -1
+        - m_ParentId: 34
+          m_AxesId: -1
+        - m_ParentId: 35
+          m_AxesId: -1
+        - m_ParentId: 36
+          m_AxesId: -1
+        - m_ParentId: 37
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 39
+          m_AxesId: -1
+        - m_ParentId: 40
+          m_AxesId: -1
+        - m_ParentId: 41
+          m_AxesId: -1
+        - m_ParentId: 42
+          m_AxesId: -1
+        - m_ParentId: 43
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 45
+          m_AxesId: -1
+        - m_ParentId: 46
+          m_AxesId: -1
+        - m_ParentId: 47
+          m_AxesId: -1
+        m_ID: 00000000fe44576daf36903fabf3fc5bfa813b093146ad693b5e943da4645b5362231fb9015ce2871372f89c6e2fc68ce77a3d0b8c1c04e8cc0850b1018a956b944fb01c6e044f327b57028ce701fd15aa3da56cf19d9a3ae91a28859357debc6fa3632eb8dc2fe46ffe0d1abf395bbb9396063e8a8a6c06e0208d4842c4893aaeada0973e865e4a1a872d87e47054886612c51d62a45cb29877ddaaafc8d07daf57d5041dd9260b2c1d4a97ccbc3db8fc48c791ce0fe089ebc38f5a56411d6e04d69308
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.04283248, y: 3.150884, z: -2.156938}
+          q: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: -0.6605328, z: 0}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.6605328, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.6605328, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.6605328, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.6605328, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: -0.3221586}
+          q: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5356595, y: -0.67834, z: 0.095844}
+          q: {x: 0.2004075, y: -0.2063818, z: 0.6849194, w: 0.6694243}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.09715, y: 0, z: 0}
+          q: {x: 0, y: 0.3425312, z: 0, w: 0.9395065}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.022147, y: 0, z: 0}
+          q: {x: 0.007721911, y: -0.05778742, z: -0.008846808, w: 0.9982598}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4963802, y: 0, z: 0.09742973}
+          q: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4928308, y: 0, z: -0.02391255}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0.3221586}
+          q: {x: 0.7071068, y: -4.329781E-17, z: 0.7071068, w: 4.329781E-17}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.5356595, y: 0.67834, z: -0.095844}
+          q: {x: 0.2063818, y: -0.2004075, z: 0.6694244, w: 0.6849194}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.09715, y: 0, z: 0}
+          q: {x: 0, y: 0.3425312, z: 0, w: 0.9395065}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.022147, y: 0, z: 0}
+          q: {x: -0.007721916, y: -0.05778746, z: 0.008846803, w: 0.9982598}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.4963802, y: 0, z: -0.09742973}
+          q: {x: 0, y: 0.7071067, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.4928308, y: 0, z: 0.02391248}
+          q: {x: 0, y: 6.663532E-08, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4585998, y: -0.09909306, z: 0}
+          q: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.09909306, y: -0.4585998, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.8835624, y: -0.3669276, z: 0}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.7948605, y: -0.6500089, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5577521, y: -0.580847, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.8925765, y: -0.2535029, z: -0.5291882}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.8925765, y: -0.2535029, z: 0.5291882}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1114227, y: 0, z: -0.5935996}
+          q: {x: 0.2219439, y: -0.1619059, z: 0.566667, w: 0.7767985}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1114227, y: 0, z: 0.5935996}
+          q: {x: -0.2219439, y: 0.1619059, z: 0.566667, w: 0.7767985}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.3221586, y: 0.2089955, z: -0.7702992}
+          q: {x: -0.1687284, y: -0.6833499, z: 0.6935702, w: 0.1533753}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.125027, y: 0, z: 0}
+          q: {x: 0, y: -0.5514006, z: 0, w: 0.8342406}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.8592706, y: 0, z: 0}
+          q: {x: -0.006848237, y: 0.4490031, z: 0.001621072, w: 0.8935025}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.7807981, y: 0, z: 0}
+          q: {x: -0.001473502, y: -0.111121, z: -0.009071515, w: 0.9937644}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4006444, y: 0, z: 0.06524184}
+          q: {x: 0, y: 0.7071065, z: 0, w: 0.7071071}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2104911, y: 0, z: -0.00617912}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.3221586, y: 0.2089955, z: 0.7702992}
+          q: {x: -0.6935703, y: 0.1533753, z: -0.1687284, w: 0.68335}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.125027, y: 0, z: 0}
+          q: {x: 0, y: -0.5514006, z: 0, w: 0.8342406}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.8592706, y: 0, z: 0}
+          q: {x: 0.006848238, y: 0.4490031, z: -0.001621067, w: 0.8935025}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.7807981, y: 0, z: 0}
+          q: {x: 0.001473501, y: -0.111121, z: 0.009071513, w: 0.9937644}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.4006444, y: 0, z: -0.06524184}
+          q: {x: 0, y: 0.7071065, z: 0, w: 0.7071071}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.2104911, y: 0, z: 0.00617912}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.1752819, y: 0.6113875, z: 0}
+          q: {x: -0.158705, y: 0.9806036, z: 0.01837593, w: 0.1135409}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4263803, y: 0, z: 0}
+          q: {x: 0, y: -0.1150183, z: 0, w: 0.9933634}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4879658, y: 0, z: 0}
+          q: {x: 0, y: -0.1150183, z: 0, w: 0.9933634}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.3221586, y: 0, z: 0}
+          q: {x: 0, y: -0.1150183, z: 0, w: 0.9933634}
+          s: {x: 1, y: 1, z: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.04283248, y: 3.150884, z: -2.156938}
+          q: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: -0.6605328, z: 0}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.6605328, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.6605328, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.6605328, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.6605328, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: -0.3221586}
+          q: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5356595, y: -0.67834, z: 0.095844}
+          q: {x: 0.2004075, y: -0.2063818, z: 0.6849194, w: 0.6694243}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.09715, y: 0, z: 0}
+          q: {x: 0, y: 0.3425312, z: 0, w: 0.9395065}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.022147, y: 0, z: 0}
+          q: {x: 0.007721911, y: -0.05778742, z: -0.008846808, w: 0.9982598}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4963802, y: 0, z: 0.09742973}
+          q: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4928308, y: 0, z: -0.02391255}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0.3221586}
+          q: {x: 0.7071068, y: -4.329781E-17, z: 0.7071068, w: 4.329781E-17}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.5356595, y: 0.67834, z: -0.095844}
+          q: {x: 0.2063818, y: -0.2004075, z: 0.6694244, w: 0.6849194}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.09715, y: 0, z: 0}
+          q: {x: 0, y: 0.3425312, z: 0, w: 0.9395065}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.022147, y: 0, z: 0}
+          q: {x: -0.007721916, y: -0.05778746, z: 0.008846803, w: 0.9982598}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.4963802, y: 0, z: -0.09742973}
+          q: {x: 0, y: 0.7071067, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.4928308, y: 0, z: 0.02391248}
+          q: {x: 0, y: 6.663532E-08, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4585998, y: -0.09909306, z: 0}
+          q: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.09909306, y: -0.4585998, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.8835624, y: -0.3669276, z: 0}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.7948605, y: -0.6500089, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.5577521, y: -0.580847, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.8925765, y: -0.2535029, z: -0.5291882}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.8925765, y: -0.2535029, z: 0.5291882}
+          q: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1114227, y: 0, z: -0.5935996}
+          q: {x: 0.2219439, y: -0.1619059, z: 0.566667, w: 0.7767985}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1114227, y: 0, z: 0.5935996}
+          q: {x: -0.2219439, y: 0.1619059, z: 0.566667, w: 0.7767985}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.3221586, y: 0.2089955, z: -0.7702992}
+          q: {x: -0.1687284, y: -0.6833499, z: 0.6935702, w: 0.1533753}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.125027, y: 0, z: 0}
+          q: {x: 0, y: -0.5514006, z: 0, w: 0.8342406}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.8592706, y: 0, z: 0}
+          q: {x: -0.006848237, y: 0.4490031, z: 0.001621072, w: 0.8935025}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.7807981, y: 0, z: 0}
+          q: {x: -0.001473502, y: -0.111121, z: -0.009071515, w: 0.9937644}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4006444, y: 0, z: 0.06524184}
+          q: {x: 0, y: 0.7071065, z: 0, w: 0.7071071}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.2104911, y: 0, z: -0.00617912}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.3221586, y: 0.2089955, z: 0.7702992}
+          q: {x: -0.6935703, y: 0.1533753, z: -0.1687284, w: 0.68335}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.125027, y: 0, z: 0}
+          q: {x: 0, y: -0.5514006, z: 0, w: 0.8342406}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.8592706, y: 0, z: 0}
+          q: {x: 0.006848238, y: 0.4490031, z: -0.001621067, w: 0.8935025}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.7807981, y: 0, z: 0}
+          q: {x: 0.001473501, y: -0.111121, z: 0.009071513, w: 0.9937644}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.4006444, y: 0, z: -0.06524184}
+          q: {x: 0, y: 0.7071065, z: 0, w: 0.7071071}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.2104911, y: 0, z: 0.00617912}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.1752819, y: 0.6113875, z: 0}
+          q: {x: -0.158705, y: 0.9806036, z: 0.01837593, w: 0.1135409}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4263803, y: 0, z: 0}
+          q: {x: 0, y: -0.1150183, z: 0, w: 0.9933634}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.4879658, y: 0, z: 0}
+          q: {x: 0, y: -0.1150183, z: 0, w: 0.9933634}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.3221586, y: 0, z: 0}
+          q: {x: 0, y: -0.1150183, z: 0, w: 0.9933634}
+          s: {x: 1, y: 1, z: 1}
+    m_SkeletonNameIDArray: 00000000fe44576daf36903fabf3fc5bfa813b093146ad6964cdc3ce053a6058ab48f4de0e9ba815b6abad08d1ff7b6130f677d4cfebb0eb982d8768949f950c749d93afb9696ff0acdb485353c68f6cdacdb991c881be94367dad56254450776fadf4de00e39acc6db613e11859279091de18c517c1385b7d6bd915f07f6ab41c164319339b01e761c1b6e4cfb32262a84c99e43392941b4519defca2d58fd02321881d8d531c9beaaca71dafbfab9cd45750cbaef52fb20087bb34a554e7ff1d64e2e2
+    m_Human:
+      data:
+        serializedVersion: 2
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node: []
+            m_ID:
+            m_AxesArray: []
+        m_SkeletonPose:
+          data:
+            m_X: []
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Handles: []
+        m_ColliderArray: []
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.1454546
+        - 0.1212121
+        - 0.1212121
+        - 0.04848485
+        - 0.04848485
+        - 0.009696971
+        - 0.009696971
+        - 0.03030303
+        - 0.2909091
+        - 0
+        - 0.01212121
+        - 0.04848485
+        - 0.006060607
+        - 0.006060607
+        - 0.02424243
+        - 0.02424243
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.002424243
+        - 0.002424243
+        - 0
+        - 0
+        - 0
+        m_ColliderIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray:
+    m_HumanSkeletonReverseIndexArray:
+    m_RootMotionBoneIndex: 5
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        m_ID: 000000003146ad69
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X: []
+    m_RootMotionSkeletonIndexArray: 0000000005000000
+  m_TOS:
+    0:
+    81090479: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_r_HindLeg_HipSHJnt/Baby_Rhino_r_HindLeg_Knee1SHJnt
+    107776650: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_Neck_01SHJnt/Baby_Rhino_Neck_TopSHJnt/Baby_Rhino_Head_TopSHJnt/Baby_Rhino_l_Eye_01SHJnt
+    143906308: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Tail_01_01SHJnt/Baby_Rhino_Tail_01_02SHJnt/Baby_Rhino_Tail_01_03SHJnt/Baby_Rhino_Tail_01_04SHJnt
+    154894842: Baby_Rhino_SLP
+    187095325: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_r_HindLeg_HipSHJnt/Baby_Rhino_r_HindLeg_Knee1SHJnt/Baby_Rhino_r_HindLeg_Knee2SHJnt
+    188578535: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_l_Clavicle_AuxSHJnt
+    368902631: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_r_Clavicle_AuxSHJnt/Baby_Rhino_r_FrontLeg_HipSHJnt
+    437124719: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_Neck_01SHJnt/Baby_Rhino_Neck_TopSHJnt/Baby_Rhino_Head_JawSHJnt
+    481316756: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_l_Clavicle_AuxSHJnt/Baby_Rhino_l_FrontLeg_HipSHJnt/Baby_Rhino_l_FrontLeg_KneeSHJnt/Baby_Rhino_l_FrontLeg_AnkleSHJnt/Baby_Rhino_l_FrontLeg_BallSHJnt
+    499454566: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_l_HindLeg_HipSHJnt/Baby_Rhino_l_HindLeg_Knee1SHJnt/Baby_Rhino_l_HindLeg_Knee2SHJnt/Baby_Rhino_l_HindLeg_AnkleSHJnt
+    778281839: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_Neck_01SHJnt
+    844039278: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_l_Clavicle_AuxSHJnt/Baby_Rhino_l_FrontLeg_HipSHJnt/Baby_Rhino_l_FrontLeg_KneeSHJnt/Baby_Rhino_l_FrontLeg_AnkleSHJnt/Baby_Rhino_l_FrontLeg_BallSHJnt/Baby_Rhino_l_FrontLeg_ToeSHJnt
+    982107202: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_Neck_01SHJnt/Baby_Rhino_Neck_TopSHJnt/Baby_Rhino_Head_TopSHJnt/Baby_Rhino_l_Eare_01SHJnt
+    983211505: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_r_Clavicle_AuxSHJnt/Baby_Rhino_r_FrontLeg_HipSHJnt/Baby_Rhino_r_FrontLeg_KneeSHJnt/Baby_Rhino_r_FrontLeg_AnkleSHJnt
+    1033133627: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt
+    1040619155: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_Neck_01SHJnt/Baby_Rhino_Neck_TopSHJnt/Baby_Rhino_Head_TopSHJnt
+    1066415791: Baby_Rhino_HP
+    1217208544: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_Neck_01SHJnt/Baby_Rhino_Neck_TopSHJnt/Baby_Rhino_Head_TopSHJnt/Baby_Rhino_r_Eye_01SHJnt
+    1247708734: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_l_HindLeg_HipSHJnt
+    1398498468: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt
+    1519371243: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Tail_01_01SHJnt/Baby_Rhino_Tail_01_02SHJnt
+    1543304107: Baby_Rhino_LP
+    1772963377: Baby_Rhino_MAINSHJnt
+    1804962305: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_l_Clavicle_AuxSHJnt/Baby_Rhino_l_FrontLeg_HipSHJnt/Baby_Rhino_l_FrontLeg_KneeSHJnt/Baby_Rhino_l_FrontLeg_AnkleSHJnt
+    1822768554: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_r_Clavicle_AuxSHJnt/Baby_Rhino_r_FrontLeg_HipSHJnt/Baby_Rhino_r_FrontLeg_KneeSHJnt
+    1834435838: Baby_Rhino_SHP
+    1847411030: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Tail_01_01SHJnt/Baby_Rhino_Tail_01_02SHJnt/Baby_Rhino_Tail_01_03SHJnt
+    2110834863: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_r_HindLeg_HipSHJnt
+    2233998057: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_r_Clavicle_AuxSHJnt/Baby_Rhino_r_FrontLeg_HipSHJnt/Baby_Rhino_r_FrontLeg_KneeSHJnt/Baby_Rhino_r_FrontLeg_AnkleSHJnt/Baby_Rhino_r_FrontLeg_BallSHJnt
+    2267907866: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_l_HindLeg_HipSHJnt/Baby_Rhino_l_HindLeg_Knee1SHJnt
+    2279758849: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt
+    2287235300: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_l_HindLeg_HipSHJnt/Baby_Rhino_l_HindLeg_Knee1SHJnt/Baby_Rhino_l_HindLeg_Knee2SHJnt
+    2313162702: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Tail_01_01SHJnt
+    2348963707: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_r_Clavicle_AuxSHJnt
+    2361798510: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt
+    2445756668: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_r_HindLeg_HipSHJnt/Baby_Rhino_r_HindLeg_Knee1SHJnt/Baby_Rhino_r_HindLeg_Knee2SHJnt/Baby_Rhino_r_HindLeg_AnkleSHJnt/Baby_Rhino_r_HindLeg_BallSHJnt/Baby_Rhino_r_HindLeg_ToeSHJnt
+    2538216748: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_r_HindLeg_HipSHJnt/Baby_Rhino_r_HindLeg_Knee1SHJnt/Baby_Rhino_r_HindLeg_Knee2SHJnt/Baby_Rhino_r_HindLeg_AnkleSHJnt
+    2543889838: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_Neck_01SHJnt/Baby_Rhino_Neck_TopSHJnt/Baby_Rhino_Head_TopSHJnt/Baby_Rhino_r_Eare_01SHJnt
+    2633527827: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt
+    2866640792: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_l_HindLeg_HipSHJnt/Baby_Rhino_l_HindLeg_Knee1SHJnt/Baby_Rhino_l_HindLeg_Knee2SHJnt/Baby_Rhino_l_HindLeg_AnkleSHJnt/Baby_Rhino_l_HindLeg_BallSHJnt/Baby_Rhino_l_HindLeg_ToeSHJnt
+    2974812364: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_l_Clavicle_AuxSHJnt/Baby_Rhino_l_FrontLeg_HipSHJnt/Baby_Rhino_l_FrontLeg_KneeSHJnt
+    2992415842: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_l_HindLeg_HipSHJnt/Baby_Rhino_l_HindLeg_Knee1SHJnt/Baby_Rhino_l_HindLeg_Knee2SHJnt/Baby_Rhino_l_HindLeg_AnkleSHJnt/Baby_Rhino_l_HindLeg_BallSHJnt
+    3091053772: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_r_HindLeg_HipSHJnt/Baby_Rhino_r_HindLeg_Knee1SHJnt/Baby_Rhino_r_HindLeg_Knee2SHJnt/Baby_Rhino_r_HindLeg_AnkleSHJnt/Baby_Rhino_r_HindLeg_BallSHJnt
+    3105825634: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt
+    3143317951: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_Neck_01SHJnt/Baby_Rhino_Neck_TopSHJnt/Baby_Rhino_Head_JawSHJnt/Baby_Rhino_Head_JawEndSHJnt
+    3168688019: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_r_Clavicle_AuxSHJnt/Baby_Rhino_r_FrontLeg_HipSHJnt/Baby_Rhino_r_FrontLeg_KneeSHJnt/Baby_Rhino_r_FrontLeg_AnkleSHJnt/Baby_Rhino_r_FrontLeg_BallSHJnt/Baby_Rhino_r_FrontLeg_ToeSHJnt
+    3828341944: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_Neck_01SHJnt/Baby_Rhino_Neck_TopSHJnt
+    3892583564: Baby_Rhino_MAINSHJnt/Baby_Rhino_ROOTSHJnt/Baby_Rhino_Spine_01SHJnt/Baby_Rhino_Spine_02SHJnt/Baby_Rhino_Spine_03SHJnt/Baby_Rhino_Spine_04SHJnt/Baby_Rhino_Spine_TopSHJnt/Baby_Rhino_l_Clavicle_AuxSHJnt/Baby_Rhino_l_FrontLeg_HipSHJnt
