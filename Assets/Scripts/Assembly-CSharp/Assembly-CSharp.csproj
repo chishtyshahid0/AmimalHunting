@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net35</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Users\Dexsam\Downloads\com.milliongamesnew.deerhunting2019_2019-01-10\assets\bin\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:\Users\Dexsam\Downloads\com.milliongamesnew.deerhunting2019_2019-01-10\assets\bin\Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing">
+      <HintPath>C:\Users\Dexsam\Downloads\com.milliongamesnew.deerhunting2019_2019-01-10\assets\bin\Data\Managed\UnityEngine.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Facebook.Unity">
+      <HintPath>C:\Users\Dexsam\Downloads\com.milliongamesnew.deerhunting2019_2019-01-10\assets\bin\Data\Managed\Facebook.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="DOTween">
+      <HintPath>C:\Users\Dexsam\Downloads\com.milliongamesnew.deerhunting2019_2019-01-10\assets\bin\Data\Managed\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Advertisements.Android">
+      <HintPath>C:\Users\Dexsam\Downloads\com.milliongamesnew.deerhunting2019_2019-01-10\assets\bin\Data\Managed\UnityEngine.Advertisements.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="Stores">
+      <HintPath>C:\Users\Dexsam\Downloads\com.milliongamesnew.deerhunting2019_2019-01-10\assets\bin\Data\Managed\Stores.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>C:\Users\Dexsam\Downloads\com.milliongamesnew.deerhunting2019_2019-01-10\assets\bin\Data\Managed\DOTween46.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
