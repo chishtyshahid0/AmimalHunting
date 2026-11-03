@@ -177,14 +177,9 @@ public class BulletSlowmoFollowCam : MonoBehaviour
         Vector3 flightDir = (targetPos - startPos).normalized;
         if (flightDir == Vector3.zero) flightDir = Vector3.forward;
 
-        if (bulletPrefab != null)
-        {
-            activeBullet = Instantiate(bulletPrefab, startPos, Quaternion.LookRotation(flightDir));
-        }
-        else
-        {
-            activeBullet = CreateProceduralBullet(startPos, flightDir);
-        }
+        // Sirf Inspector me assigned bulletPrefab hi spawn hoga.
+        // Null check jaan boojh kar nahi lagaya: agar prefab assign nahi hoga to error aayega.
+        activeBullet = Instantiate(bulletPrefab, startPos, Quaternion.LookRotation(flightDir));
 
         bulletFollowCamera.gameObject.SetActive(true);
         if (mainCamera != null)
@@ -363,43 +358,5 @@ public class BulletSlowmoFollowCam : MonoBehaviour
         }
 
         isRunning = false;
-    }
-
-    private GameObject CreateProceduralBullet(Vector3 pos, Vector3 forward)
-    {
-        GameObject bullet = GameObject.CreatePrimitive(PrimitiveType.Capsule);
-        bullet.name = "SlowmoBullet_Procedural";
-        bullet.transform.position = pos;
-        bullet.transform.rotation = Quaternion.LookRotation(forward) * Quaternion.Euler(90f, 0f, 0f);
-        bullet.transform.localScale = new Vector3(0.06f, 0.22f, 0.06f);
-
-        Collider col = bullet.GetComponent<Collider>();
-        if (col != null) Destroy(col);
-
-        Renderer rend = bullet.GetComponent<Renderer>();
-        if (rend != null)
-        {
-            Shader standardShader = Shader.Find("Standard") ?? Shader.Find("Diffuse");
-            if (standardShader != null)
-            {
-                Material mat = new Material(standardShader);
-                mat.color = new Color(0.95f, 0.75f, 0.2f);
-                rend.material = mat;
-            }
-        }
-
-        TrailRenderer trail = bullet.AddComponent<TrailRenderer>();
-        trail.time = 0.25f;
-        trail.startWidth = 0.05f;
-        trail.endWidth = 0f;
-        Shader trailShader = Shader.Find("Mobile/Particles/Additive") ?? Shader.Find("Particles/Standard Unlit");
-        if (trailShader != null)
-        {
-            trail.material = new Material(trailShader);
-        }
-        trail.startColor = new Color(1f, 0.8f, 0.3f, 0.8f);
-        trail.endColor = new Color(1f, 0.4f, 0.1f, 0f);
-
-        return bullet;
     }
 }

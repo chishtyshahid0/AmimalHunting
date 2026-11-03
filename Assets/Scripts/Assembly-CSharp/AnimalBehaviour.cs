@@ -80,23 +80,37 @@ public class AnimalBehaviour : MonoBehaviour
 	private void Start()
 	{
 		myAgent = GetComponent<NavMeshAgent>();
-		agentSpeed = GetComponent<NavMeshAgent>().speed;
-		Debug.Log("agent speed : " + agentSpeed);
-		myPlayer = Object.FindObjectOfType<playercontroller>().transform;
+		if (myAgent != null)
+		{
+			agentSpeed = myAgent.speed;
+			Debug.Log("agent speed : " + agentSpeed);
+		}
 
-        //Managing Escape Position of Animal Generically... haha
-        if (escapePosition == null && !GameManager.MODE_Hard)
-        {
-            int Rand = Random.Range(0, GameManager._instance.EscapePosition.Length);
-            escapePosition = GameManager._instance.EscapePosition[Rand];
-        }
+		playercontroller playerCtrl = Object.FindObjectOfType<playercontroller>();
+		if (playerCtrl != null)
+		{
+			myPlayer = playerCtrl.transform;
+		}
+
+		//Managing Escape Position of Animal Generically... haha
+		if (escapePosition == null && !GameManager.MODE_Hard && GameManager._instance != null && GameManager._instance.EscapePosition != null && GameManager._instance.EscapePosition.Length > 0)
+		{
+			int Rand = Random.Range(0, GameManager._instance.EscapePosition.Length);
+			escapePosition = GameManager._instance.EscapePosition[Rand];
+		}
 
 		if (GetComponent<Animator>())
 		{
 			myAnimator = GetComponent<Animator>();
 			SetAnimalAnimation();
 		}
-		render = GetComponentInChildren<SkinnedMeshRenderer>().GetComponent<Renderer>();
+
+		SkinnedMeshRenderer skinnedRenderer = GetComponentInChildren<SkinnedMeshRenderer>();
+		if (skinnedRenderer != null)
+		{
+			render = skinnedRenderer.GetComponent<Renderer>();
+		}
+
 		if (lungs != null && lungs.activeInHierarchy)
 		{
 			lungs.SetActive(false);

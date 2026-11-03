@@ -1119,8 +1119,8 @@ MonoBehaviour:
   isTarget: 1
   lungs: {fileID: 0}
   allColliders: []
-  runSpeed: 8
-  walkSpeed: 4
+  runSpeed: 5
+  walkSpeed: 3
   remainigDistance: 0
   attackToPlayerInDistance: 10
   runNow: 0
@@ -1141,7 +1141,7 @@ NavMeshAgent:
   m_StoppingDistance: 0
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
-  m_AutoRepath: 1
+  m_AutoRepath: 0
   m_Height: 2
   m_BaseOffset: 0
   m_WalkableMask: 4294967295

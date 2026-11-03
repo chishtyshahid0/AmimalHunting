@@ -133,7 +133,7 @@ public class CameraControllesAssaults : MonoBehaviour
 					_pointereventdata.position = Input.GetTouch(i).position;
 					List<RaycastResult> list = new List<RaycastResult>();
 					_Raycaster.Raycast(_pointereventdata, list);
-					Debug.Log("_________");
+				//ebug.Log("_________");
 					for (int j = 0; j < list.Count; j++)
 					{
 						if (list[j].gameObject.transform.name.Contains("Joystick"))
